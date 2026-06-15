@@ -1,0 +1,23 @@
+colorScheme = "blowfish"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+[homepage]
+  layout = "background"
+  homepageImage = "img/home-background.png"
+  showRecent = true
+  showRecentItems = 5
+  layoutBackgroundBlur = false
+
+[header]
+  layout = "basic"
+
+[list]
+  showSummary = true
+  showTableOfContents = true
+
+[article]
+  showDate = true
+  showReadingTime = true
+  showWordCount = true
+  showTableOfContents = true

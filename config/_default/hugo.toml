@@ -1,0 +1,6 @@
+baseURL = "https://elpiphoros.github.io/"
+title = "Yoko's Game Lab"
+theme = "blowfish"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true

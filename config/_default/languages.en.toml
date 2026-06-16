@@ -3,7 +3,7 @@ label = "English"
 contentDir = "content/en"
 weight = 1
 
-title = "Yoko's Game Lab"
+title = "Yoko's Digital Workshop"
 
 [params]
   displayName = "EN"
@@ -13,11 +13,23 @@ title = "Yoko's Game Lab"
 
 [params.author]
   name = "Yoko"
-  headline = "Game Media Technology | Computer Graphics | Unity Development"
-  bio = "Welcome to my digital workshop."
+  headline = "Game & Media Technology | Interaction Design | User Experience"
+  bio = "I am interested in games, interactive experiences, and creative works that express emotions and personal thoughts. This workshop is a space for my projects, writings, and explorations around interaction, storytelling, personal expression, and user experience."
 
 [[menu.main]]
-  identifier = "posts"
-  name = "Posts"
-  pageRef = "/posts"
-  weight = 10
+ identifier = "game-interaction"
+ name = "Game & Interaction"
+ pageRef = "/game-interaction"
+ weight = 10
+
+[[menu.main]]
+ identifier = "writing-research"
+ name = "Writing & Research"
+ pageRef = "/writing-research"
+ weight = 20
+
+[[menu.main]]
+ identifier = "other-projects"
+ name = "Other Projects"
+ pageRef = "/other-projects"
+ weight = 30

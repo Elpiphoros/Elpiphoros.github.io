@@ -3,7 +3,7 @@ label = "简体中文"
 contentDir = "content/zh-cn"
 weight = 2
 
-title = "Yoko 的游戏实验室"
+title = "Yoko 的数字工坊"
 
 [params]
   displayName = "中文"
@@ -13,11 +13,23 @@ title = "Yoko 的游戏实验室"
 
 [params.author]
   name = "Yoko"
-  headline = "游戏媒体技术 | 图形学 | Unity 开发"
-  bio = "欢迎来到我的数字工坊。"
+  headline = "游戏媒体技术 | 交互设计 | 用户体验"
+  bio = "我对游戏、交互体验，以及能够表达情感和个人想法的创意作品感兴趣。这个数字工坊记录我的项目、文章，以及我围绕互动、叙事、个人表达和用户体验的探索。"
 
 [[menu.main]]
-  identifier = "posts"
-  name = "文章"
-  pageRef = "/posts"
-  weight = 10
+ identifier = "game-interaction"
+ name = "游戏与交互"
+ pageRef = "/game-interaction"
+ weight = 10
+
+[[menu.main]]
+ identifier = "writing-research"
+ name = "写作与研究"
+ pageRef = "/writing-research"
+ weight = 20
+
+[[menu.main]]
+ identifier = "other-projects"
+ name = "其他项目"
+ pageRef = "/other-projects"
+ weight = 30

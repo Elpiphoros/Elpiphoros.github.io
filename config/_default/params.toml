@@ -2,6 +2,8 @@ colorScheme = "blowfish"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 
+mainSections = ["game-interaction", "writing-research", "other-projects"]
+
 [homepage]
   layout = "background"
   homepageImage = "img/home-background.png"
@@ -17,7 +19,9 @@ autoSwitchAppearance = true
   showTableOfContents = true
 
 [article]
-  showDate = true
-  showReadingTime = true
-  showWordCount = true
-  showTableOfContents = true
+ showDate = true
+ showReadingTime = true
+ showWordCount = true
+ showTableOfContents = true
+ showTaxonomies = true
+ showTags = true

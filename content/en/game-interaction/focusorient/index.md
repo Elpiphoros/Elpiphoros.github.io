@@ -40,14 +40,14 @@ These findings provided useful design insights for mobile games and other attent
 
 ## My Contributions
 
-This was a group project, and I contributed across multiple stages of the project, including prototype development, experiment organization, data collection, reporting, and presentation.
+This was a group project, and I contributed across multiple stages of the project, including prototype development, experiment organization, data collection, reporting, and presentation. I was also responsible for the data analysis and interpretation of the results.
 
 - Contributed to the Unity development of the mobile game research prototype.
 - Helped implement and refine the interaction logic for the obstacle-avoidance task.
 - Contributed to the experimental design, including the comparison between portrait and landscape screen orientations.
 - Helped organize the user study procedure and conduct the experiment with participants.
 - Collected and organized gameplay and questionnaire data from the user tests.
-- Contributed to data analysis and interpretation of the results.
+- Independently conducted the data analysis and interpretation of the results.
 - Contributed to writing the final research report.
 - Designed and prepared presentation slides.
 - Participated in the final in-person presentation and explanation of the project.
@@ -58,4 +58,6 @@ Unity, C#, Mobile Game Prototype, Human-Computer Interaction, Mobile Interaction
 
 ## Project Materials
 
-[View the final report](Screen_Orientations_and_Attention__A_Gamified_Study_on_Mobile_User_Focus.pdf)
+<a href="/files/Screen_Orientations_and_Attention__A_Gamified_Study_on_Mobile_User_Focus.pdf" target="_blank" rel="noopener noreferrer">
+View the final report
+</a>

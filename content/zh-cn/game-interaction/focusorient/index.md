@@ -1,9 +1,8 @@
 ---
-
 title: "FocusOrient：屏幕方向与移动端用户注意力研究"
 date: 2025-06-01T00:00:00+02:00
 draft: false
-weight: 1
+weight: 4
 summary: "一个基于 Unity 的移动端游戏研究原型，用于研究横屏与竖屏方向如何影响用户注意力、任务表现和感知工作负荷。"
 tags: ["Unity", "HCI", "移动交互", "用户研究", "用户体验", "游戏原型", "课程项目"]
 showAuthor: false

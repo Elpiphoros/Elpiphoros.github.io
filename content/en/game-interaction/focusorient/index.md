@@ -2,7 +2,7 @@
 title: "FocusOrient: Screen Orientation and Mobile User Focus"
 date: 2025-06-01T00:00:00+02:00
 draft: false
-weight: 1
+weight: 4
 summary: "A Unity-based mobile game research prototype investigating how portrait and landscape screen orientations affect user attention, task performance, and perceived workload."
 tags: ["Unity", "HCI", "Mobile Interaction", "User Study", "User Experience", "Game Prototype", "Course Project"]
 showAuthor: false

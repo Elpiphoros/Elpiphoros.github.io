@@ -25,7 +25,7 @@ title = "Yoko 的数字工坊"
 
 [[menu.main]]
  identifier = "writing-research"
- name = "写作与研究"
+ name = "游戏分析"
  pageRef = "/writing-research"
  weight = 20
 

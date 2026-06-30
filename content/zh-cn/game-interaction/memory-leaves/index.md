@@ -1,5 +1,5 @@
 ---
-title: "面向哀伤支持的拼贴式游戏化日记入口研究"
+title: "Memory Leaves: 面向哀伤支持的拼贴式游戏化日记入口研究"
 date: 2026-06-30T00:00:00+02:00
 draft: false
 weight: 1

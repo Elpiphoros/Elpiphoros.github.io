@@ -2,7 +2,7 @@
 title: "TopDownShooter: Predicting Weapon Balance with Machine Learning"
 date: 2025-11-01T00:00:00+02:00
 draft: false
-weight: 3
+weight: 2
 summary: "A 2D top-down shooter prototype exploring how machine learning can support weapon balance evaluation by combining weapon parameters, gameplay data, and player feedback."
 tags: ["Unity", "Python", "Scikit-learn", "Machine Learning", "Logistic Regression", "Random Forest", "Feature Engineering", "Cross-validation", "Game AI", "Game Perceived Balance", "Player Experience", "User Study", "Course Project"]
 showAuthor: false

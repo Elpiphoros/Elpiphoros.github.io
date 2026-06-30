@@ -2,7 +2,7 @@
 title: "TopDownShooter：使用机器学习预测玩家感知的武器平衡"
 date: 2025-11-01T00:00:00+02:00
 draft: false
-weight: 3
+weight: 2
 summary: "一个 2D 俯视角射击游戏原型，探索如何通过玩家反馈、武器参数、特征工程和监督学习分类来辅助武器平衡评估。"
 tags: ["Unity", "Python", "Scikit-learn", "机器学习", "逻辑回归", "随机森林", "特征工程", "交叉验证", "游戏AI", "游戏感知平衡性", "玩家体验", "用户研究", "课程项目"]
 showAuthor: false

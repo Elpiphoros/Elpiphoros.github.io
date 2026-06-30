@@ -1,6 +1,6 @@
 ---
 title: "TopDownShooter: Predicting Weapon Balance with Machine Learning"
-date: 2025-09-01T00:00:00+02:00
+date: 2025-11-01T00:00:00+02:00
 draft: false
 weight: 3
 summary: "A 2D top-down shooter prototype exploring how machine learning can support weapon balance evaluation by combining weapon parameters, gameplay data, and player feedback."

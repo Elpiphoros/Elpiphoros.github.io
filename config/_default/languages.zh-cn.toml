@@ -19,13 +19,13 @@ title = "Yoko 的数字工坊"
 
 [[menu.main]]
  identifier = "game-interaction"
- name = "游戏与交互"
+ name = "游戏与交互项目"
  pageRef = "/game-interaction"
  weight = 10
 
 [[menu.main]]
  identifier = "writing-research"
- name = "游戏分析"
+ name = "游戏与交互分析"
  pageRef = "/writing-research"
  weight = 20
 

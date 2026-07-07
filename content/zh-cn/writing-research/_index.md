@@ -1,5 +1,5 @@
 ---
-title: "游戏与分析分析"
+title: "游戏与交互分析"
 draft: false
 ---
 

@@ -15,7 +15,7 @@ title = "Yoko 的数字工坊"
   name = "Yoko"
   image = "img/avatar.jpg"
   headline = "游戏媒体技术 | 交互设计 | 用户体验"
-  bio = "我对游戏、交互体验，以及能够表达情感和个人想法的创意作品感兴趣。这个数字工坊记录我的项目、文章，以及我围绕互动、叙事、个人表达和用户体验的探索。"
+  bio = "我对游戏、交互体验，以及能够表达情感和个人想法的创意作品感兴趣。这个数字工坊记录我的项目、文章，以及我围绕互动、个人表达和用户体验的探索。"
 
 [[menu.main]]
  identifier = "game-interaction"
@@ -31,6 +31,6 @@ title = "Yoko 的数字工坊"
 
 [[menu.main]]
  identifier = "other-projects"
- name = "其他项目"
+ name = "其他技术项目"
  pageRef = "/other-projects"
  weight = 30

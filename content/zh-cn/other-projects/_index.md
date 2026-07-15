@@ -1,5 +1,5 @@
 ---
-title: "其他项目"
+title: "其他技术项目"
 draft: false
 ---
 

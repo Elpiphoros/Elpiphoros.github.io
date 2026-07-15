@@ -8,7 +8,7 @@ mainSections = ["game-interaction", "writing-research", "other-projects"]
   layout = "background"
   homepageImage = "img/home-background.png"
   showRecent = true
-  showRecentItems = 20
+  showRecentItems = 40
   layoutBackgroundBlur = false
 
 [header]

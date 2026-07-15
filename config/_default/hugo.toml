@@ -4,3 +4,6 @@ theme = "blowfish"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
+
+[pagination]
+  pagerSize = 40

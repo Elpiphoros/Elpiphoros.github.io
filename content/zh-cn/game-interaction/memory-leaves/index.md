@@ -3,9 +3,11 @@ title: "Memory Leaves: 面向哀伤支持的拼贴式游戏化日记入口研究
 date: 2026-06-30T00:00:00+02:00
 draft: false
 weight: 1
-summary: "一个硕士论文项目，探索拼贴式游戏化入口方式如何支持哀伤相关日记中的早期投入和情感反思。"
+summary: "我的硕士论文项目，探索拼贴式游戏化入口方式如何支持哀伤相关日记中的早期投入和情感反思。"
 tags: ["Unity", "硕士论文", "人机交互", "交互设计", "情感交互", "反思性日记", "拼贴式界面", "游戏化", "用户研究设计", "数据分析", "研究原型"]
 showAuthor: false
+showWordCount: false
+showReadingTime: false
 ---
 
 ## 项目概述
